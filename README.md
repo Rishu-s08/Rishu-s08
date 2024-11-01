@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">Eager to learn new things</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **smthg...**
 
-- 💬 Ask me about **Anything,
-                    if i knew i'll answer,
-                    if dont, i'll learn and answer ;)**
+- 💬 Ask me about **Anything,** <!--if i knew i'll answer, if dont, i'll learn and answer ;)-->
 
 - 📫 How to reach me **rishi.2030s@gmail.com**
 
