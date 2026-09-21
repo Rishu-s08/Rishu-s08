@@ -1,71 +1,55 @@
-<h1 align="center">Hi 👋, I'm Rishi</h1>
-<h3 align="center">🚀 Eager to Learn & Build Cool Things</h3>
+<img src="assets/hero.svg" width="100%" alt="Terminal: guest@rishi:~ typing &quot;Hello, I'm Rishi&quot; — full stack developer" />
 
-- 🌱 I’m currently learning **...something exciting**
-- 💬 Ask me about **anything** — if I don’t know, I’ll learn and answer 😉
-- 📫 Reach me at **rishi.2030s@gmail.com**
-- ⚡ Fun fact: **I want to learn *everything*** 😄
+<img src="assets/about.svg" width="100%" alt="Terminal: $ whoami — I'm a full stack developer who loves building web and mobile apps. I'm currently learning new technologies and always eager to build cool things. I'm looking to collaborate on open-source projects and side projects. Ask me about anything — if I don't know, I'll learn and answer. Fun fact: I want to learn everything!" />
 
----
+<img src="assets/rain-a.svg" width="100%" alt="" />
 
-<h3 align="center">🌐 Connect with me</h3>
+## Stack
+
+![Java](https://img.shields.io/badge/Java-05070A?style=for-the-badge&logo=openjdk&logoColor=39FF88)
+![Python](https://img.shields.io/badge/Python-05070A?style=for-the-badge&logo=python&logoColor=39FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-05070A?style=for-the-badge&logo=javascript&logoColor=39FF88)
+![C](https://img.shields.io/badge/C-05070A?style=for-the-badge&logo=c&logoColor=39FF88)
+![Node.js](https://img.shields.io/badge/Node.js-05070A?style=for-the-badge&logo=nodedotjs&logoColor=39FF88)
+![Express](https://img.shields.io/badge/Express-05070A?style=for-the-badge&logo=express&logoColor=39FF88)
+![Flutter](https://img.shields.io/badge/Flutter-05070A?style=for-the-badge&logo=flutter&logoColor=39FF88)
+![React](https://img.shields.io/badge/React-05070A?style=for-the-badge&logo=react&logoColor=39FF88)
+![HTML](https://img.shields.io/badge/HTML-05070A?style=for-the-badge&logo=html5&logoColor=39FF88)
+![CSS](https://img.shields.io/badge/CSS-05070A?style=for-the-badge&logo=css3&logoColor=39FF88)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05070A?style=for-the-badge&logo=bootstrap&logoColor=39FF88)
+![MongoDB](https://img.shields.io/badge/MongoDB-05070A?style=for-the-badge&logo=mongodb&logoColor=39FF88)
+![MySQL](https://img.shields.io/badge/MySQL-05070A?style=for-the-badge&logo=mysql&logoColor=39FF88)
+![Redis](https://img.shields.io/badge/Redis-05070A?style=for-the-badge&logo=redis&logoColor=39FF88)
+![Firebase](https://img.shields.io/badge/Firebase-05070A?style=for-the-badge&logo=firebase&logoColor=39FF88)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-05070A?style=for-the-badge&logo=socketdotio&logoColor=39FF88)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05070A?style=for-the-badge&logo=tensorflow&logoColor=39FF88)
+![Pandas](https://img.shields.io/badge/Pandas-05070A?style=for-the-badge&logo=pandas&logoColor=39FF88)
+![Selenium](https://img.shields.io/badge/Selenium-05070A?style=for-the-badge&logo=selenium&logoColor=39FF88)
+![Docker](https://img.shields.io/badge/Docker-05070A?style=for-the-badge&logo=docker&logoColor=39FF88)
+![Git](https://img.shields.io/badge/Git-05070A?style=for-the-badge&logo=git&logoColor=39FF88)
+![Linux](https://img.shields.io/badge/Linux-05070A?style=for-the-badge&logo=linux&logoColor=39FF88)
+![Android](https://img.shields.io/badge/Android-05070A?style=for-the-badge&logo=android&logoColor=39FF88)
+![Unity](https://img.shields.io/badge/Unity-05070A?style=for-the-badge&logo=unity&logoColor=39FF88)
+![Figma](https://img.shields.io/badge/Figma-05070A?style=for-the-badge&logo=figma&logoColor=39FF88)
+
+<img src="assets/rain-b.svg" width="100%" alt="" />
+
+## LeetCode and GitHub stats
+
 <p align="center">
-  <a href="https://linkedin.com/in/rishu-s08" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/rishi_.sharma5" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<img height="196" src="assets/leetcode.svg" alt="LeetCode — 228 solved of 4,059: 74 easy, 120 medium, 34 hard" />
+<img height="196" src="assets/streak.svg" alt="GitHub contribution streak" />
 </p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishu-s08/Rishu-s08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishu-s08/Rishu-s08/output/github-snake.svg" />
+  <img alt="A snake eating through the squares of my contribution graph" src="https://raw.githubusercontent.com/Rishu-s08/Rishu-s08/output/github-snake.svg" />
+</picture>
 
-<h3 align="center">🛠 Languages & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <!-- iOS -->
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <!-- Bash -->
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <!-- Flutter -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <!-- Express -->
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <!-- Redis -->
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <!-- Socket.IO -->
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <!-- REST API -->
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-007ACC?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
+## Elsewhere
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishu-s08&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+[![Email](https://img.shields.io/badge/rishi.2030s%40gmail.com-05070A?style=for-the-badge&logo=gmail&logoColor=39FF88)](mailto:rishi.2030s@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/rishu--s08-05070A?style=for-the-badge&logo=linkedin&logoColor=39FF88)](https://linkedin.com/in/rishu-s08)
+[![Instagram](https://img.shields.io/badge/rishi__.sharma5-05070A?style=for-the-badge&logo=instagram&logoColor=39FF88)](https://instagram.com/rishi_.sharma5)
+[![LeetCode](https://img.shields.io/badge/rishu--s08-05070A?style=for-the-badge&logo=leetcode&logoColor=39FF88)](https://leetcode.com/u/rishu-s08/)
