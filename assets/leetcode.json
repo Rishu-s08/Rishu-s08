@@ -1,15 +1,15 @@
 {
   "attempting": 2,
   "solved": {
-    "All": 259,
+    "All": 260,
     "Easy": 78,
     "Hard": 37,
-    "Medium": 144
+    "Medium": 145
   },
   "total": {
-    "All": 4081,
+    "All": 4082,
     "Easy": 971,
-    "Hard": 982,
+    "Hard": 983,
     "Medium": 2128
   },
   "user": "rishu-s08"
