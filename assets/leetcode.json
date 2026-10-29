@@ -1,10 +1,10 @@
 {
-  "attempting": 3,
+  "attempting": 2,
   "solved": {
-    "All": 275,
+    "All": 276,
     "Easy": 81,
     "Hard": 40,
-    "Medium": 154
+    "Medium": 155
   },
   "total": {
     "All": 4096,
